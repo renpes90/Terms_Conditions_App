@@ -21,11 +21,11 @@ Account means a unique account created for You to access our Service or parts of
 
 Affiliate means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
 
-Application refers to The app, the software program provided by the Company.
+Application refers to the app developed by @renpes90, the software program provided by the Company.
 
 Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to The app.
 
-Country refers to: California, United States
+Country refers to: your current country.
 
 Device means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 
@@ -44,7 +44,6 @@ Types of Data Collected
 Personal Data
 While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:
 
-Usage Data
 Usage Data
 Usage Data is collected automatically when using the Service.
 
