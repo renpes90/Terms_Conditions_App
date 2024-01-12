@@ -4,7 +4,7 @@
 Privacy Policy for The app
 
 Privacy Policy
-Last updated: August 30, 2023
+Last updated: January 12, 2024
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
@@ -21,7 +21,7 @@ Account means a unique account created for You to access our Service or parts of
 
 Affiliate means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
 
-Application refers to the app developed by @renpes90, the software program provided by the Company.
+Application refers to the app developed by @ReneGameDev, the software program provided by the Company.
 
 Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to The app.
 
@@ -147,7 +147,7 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 Contact Us
 If you have any questions about this Privacy Policy, You can contact us:
 
-By email: renpes90@gmail.com
+By email: renegamedev@gmail.com
 
 
 Generated using Privacy Policies Generator
