@@ -1,4 +1,4 @@
-# Terms and Conditions of Use for @renpes90 Applications 
+# Terms and Conditions of Use for @ReneGameDev Applications 
 
 
 Privacy Policy for The app
